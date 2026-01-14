@@ -512,7 +512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="63_9fiP_J0R0uHWOHN7K-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4a4a4a&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;结构化保存&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="490" y="780" as="geometry" />
+          <mxGeometry height="30" width="90" x="490" y="770" as="geometry" />
         </mxCell>
         <mxCell id="63_9fiP_J0R0uHWOHN7K-43" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#9E9F9A;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -524,7 +524,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="63_9fiP_J0R0uHWOHN7K-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(74, 74, 74), rgb(185, 185, 185));&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;返回概要&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="363" y="780" as="geometry" />
+          <mxGeometry height="30" width="70" x="355" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
