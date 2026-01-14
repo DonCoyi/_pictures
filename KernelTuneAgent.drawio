@@ -478,7 +478,7 @@
         <mxCell id="UcM6Vu8uEAHdRJrRIdqb-2" edge="1" parent="VQwkrUYJqeBFxbLYrBja-3" style="endArrow=none;startArrow=open;html=1;rounded=0;strokeColor=light-dark(#aaaaa7, #ededed);startFill=0;endFill=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="620" y="90" as="sourcePoint" />
-            <mxPoint x="590" y="90" as="targetPoint" />
+            <mxPoint x="580" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KnUBYiSjVNPIPPvDy4hb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=light-dark(#e9baac, #996500);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(184, 83, 53), rgb(195, 89, 19));&quot;&gt;环境&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
