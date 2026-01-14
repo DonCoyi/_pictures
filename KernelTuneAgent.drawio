@@ -533,7 +533,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VQwkrUYJqeBFxbLYrBja-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4a4a4a&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;系统配置文件&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="105" x="425" y="1080.63" as="geometry" />
+          <mxGeometry height="30" width="105" x="425" y="1070.3100000000002" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
