@@ -502,10 +502,10 @@
         <mxCell id="8goIrVSbD4GJsD9CnrP0-14" edge="1" parent="VQwkrUYJqeBFxbLYrBja-3" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint y="210" />
+              <mxPoint x="10" y="210" />
             </Array>
-            <mxPoint x="60" y="290" as="sourcePoint" />
-            <mxPoint x="60" y="130" as="targetPoint" />
+            <mxPoint x="70" y="290" as="sourcePoint" />
+            <mxPoint x="70" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8goIrVSbD4GJsD9CnrP0-16" edge="1" parent="VQwkrUYJqeBFxbLYrBja-3" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#EA6B66;strokeWidth=2;" value="">
