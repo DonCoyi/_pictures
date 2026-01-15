@@ -571,7 +571,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="06CzLRVjLXriHwuIkFSi-19" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;状态输入结构&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="696" width="789" x="-98" y="186" as="geometry" />
+          <mxGeometry height="735" width="789" x="-91" y="225" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-1" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;系统提示词&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="69" y="174" as="geometry" />
@@ -592,10 +592,7 @@
           <mxGeometry height="50" width="160" x="302" y="295" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-6" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;历史消息&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="69" y="518" as="geometry" />
-        </mxCell>
-        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-8" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;" value="" vertex="1">
-          <mxGeometry height="191" width="20" x="250" y="454" as="geometry" />
+          <mxGeometry height="50" width="160" x="69" y="505" as="geometry" />
         </mxCell>
         <mxCell id="VgoeIBQ_0MChP0jBA2oj-1" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;cpu核数、显存、内存、gpu型号、调优目标模型&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="264" x="486" y="67" as="geometry" />
@@ -608,6 +605,21 @@
         </mxCell>
         <mxCell id="VgoeIBQ_0MChP0jBA2oj-4" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4f4f4f&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;训练模型命令、读取日志命令、&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4f4f4f&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;修改参数命令&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="264" x="486" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-5" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;实验环境&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="302" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-6" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;可用工具&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="302" y="470.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-7" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font color=&quot;#4668a0&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;参数详&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bcolor%3A%20rgb(70%2C%20104%2C%20160)%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2012pt%3B%20line-height%3A%20150%25%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2012pt%3B%20line-height%3A%20150%25%3B%26quot%3B%26gt%3B%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%E5%8F%AF%E7%94%A8%E5%B7%A5%E5%85%B7%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2250%22%20width%3D%22160%22%20x%3D%22204%22%20y%3D%22323.5%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font color=&quot;#4668a0&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;情&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="302" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-8" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font color=&quot;#4668a0&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;常用命令&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="302" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-9" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;" value="" vertex="1">
+          <mxGeometry height="264" width="20" x="255" y="398" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
