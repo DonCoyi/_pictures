@@ -571,16 +571,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="06CzLRVjLXriHwuIkFSi-19" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;状态输入结构&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="566" width="600" x="-98" y="186" as="geometry" />
+          <mxGeometry height="696" width="789" x="-98" y="186" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-1" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;系统提示词&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="76" y="137.5" as="geometry" />
+          <mxGeometry height="50" width="160" x="69" y="174" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-9" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;" value="" vertex="1">
-          <mxGeometry height="191" width="20" x="255" y="67" as="geometry" />
+          <mxGeometry height="264" width="20" x="255" y="67" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-10" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;实验环境&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="306" y="59" as="geometry" />
+          <mxGeometry height="50" width="160" x="302" y="59" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-11" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;可用工具&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="302" y="137.5" as="geometry" />
@@ -589,13 +589,25 @@
           <mxGeometry height="50" width="160" x="302" y="216" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-13" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font color=&quot;#4668a0&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;常用命令&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="302" y="288" as="geometry" />
+          <mxGeometry height="50" width="160" x="302" y="295" as="geometry" />
         </mxCell>
-        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;历史消息&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="160" x="-21" y="580" as="geometry" />
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-6" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;color: rgb(70, 104, 160);&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;历史消息&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="69" y="518" as="geometry" />
         </mxCell>
-        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-8" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;" value="" vertex="1">
-          <mxGeometry height="191" width="20" x="160" y="516" as="geometry" />
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-8" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;" value="" vertex="1">
+          <mxGeometry height="191" width="20" x="250" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-1" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;cpu核数、显存、内存、gpu型号、调优目标模型&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="264" x="486" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-2" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;python执行、bash执行、文件读写&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="264" x="482" y="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-3" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;参数元信息：取值范围、迭代步数、默认值、影响力、耦合度&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="264" x="491" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-4" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4f4f4f&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;训练模型命令、读取日志命令、&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4f4f4f&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;修改参数命令&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="264" x="486" y="307" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
