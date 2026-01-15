@@ -642,7 +642,7 @@
         <mxCell id="VgoeIBQ_0MChP0jBA2oj-50" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;模型思考过程、工具调用列表&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="264" x="521" y="689" as="geometry" />
         </mxCell>
-        <mxCell id="VgoeIBQ_0MChP0jBA2oj-51" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;模型思考过程、工具调用列表&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-51" parent="06CzLRVjLXriHwuIkFSi-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(79, 79, 79), rgb(185, 185, 185));&quot;&gt;工具执行结果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="264" x="521" y="816" as="geometry" />
         </mxCell>
       </root>
