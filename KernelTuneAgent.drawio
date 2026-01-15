@@ -566,10 +566,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TimlGk34BwZTOt-gtrma" name="第 5 页">
-    <mxGraphModel dx="1281" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="06CzLRVjLXriHwuIkFSi-19" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b style=&quot;color: rgb(46, 118, 70); font-size: 16px;&quot;&gt;状态输入结构&lt;/b&gt;" vertex="1">
+          <mxGeometry height="566" width="600" x="-98" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-1" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font color=&quot;#2e7646&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;系统提示词&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="76" y="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-9" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="191" width="20" x="255" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font color=&quot;#2e7646&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;历史消息&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="-21" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-8" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="191" width="20" x="160" y="516" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
