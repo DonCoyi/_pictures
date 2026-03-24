@@ -1020,7 +1020,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="历史最优表现，例：" vertex="1">
-          <mxGeometry height="30" width="130" x="1110" y="570" as="geometry" />
+          <mxGeometry height="30" width="130" x="1110" y="570.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
