@@ -576,7 +576,7 @@
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-1" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;&quot;&gt;系统提示词&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="160" x="315" y="186" as="geometry" />
         </mxCell>
-        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-9" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="" vertex="1">
+        <mxCell id="U3hFqyHbQ_w5lOtBNzeO-9" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#4D4D4D;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="" vertex="1">
           <mxGeometry height="264" width="20" x="501" y="79" as="geometry" />
         </mxCell>
         <mxCell id="U3hFqyHbQ_w5lOtBNzeO-10" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;&quot;&gt;实验环境&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
@@ -615,7 +615,7 @@
         <mxCell id="VgoeIBQ_0MChP0jBA2oj-9" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="" vertex="1">
           <mxGeometry height="612" width="20" x="249" y="197" as="geometry" />
         </mxCell>
-        <mxCell id="VgoeIBQ_0MChP0jBA2oj-12" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#A9C4EB;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="" vertex="1">
+        <mxCell id="VgoeIBQ_0MChP0jBA2oj-12" parent="06CzLRVjLXriHwuIkFSi-19" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#4D4D4D;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="" vertex="1">
           <mxGeometry height="184" width="20" x="501" y="403" as="geometry" />
         </mxCell>
         <mxCell id="VgoeIBQ_0MChP0jBA2oj-13" parent="06CzLRVjLXriHwuIkFSi-19" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;&lt;span style=&quot;&quot;&gt;任务描述&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
