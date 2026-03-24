@@ -755,7 +755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="560" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1008,7 +1008,19 @@
           <mxGeometry height="35" width="126" x="1100" y="290" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-218" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-indent: 24pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-indent: 24pt;&quot;&gt;&quot;fs_file_max&quot;: 30000000,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;kernel_threads_max&quot;: 1638400,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_dirty_expire_centisecs&quot;: 5000,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_dirty_writeback_centisecs&quot;: 100,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_page_cluster&quot;: 8,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_swappiness&quot;: 0,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_watermark_scale_factor&quot;: 1000,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_dirty_background_ratio&quot;: 50,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_dirty_ratio&quot;: 80,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_overcommit_memory&quot;: 1,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_overcommit_ratio&quot;: 100,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;kernel_numa_balancing&quot;: 0,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm_zone_reclaim_mode&quot;: 1,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;transparent_hugepage&quot;: 0&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="220" x="1110" y="610" as="geometry" />
+          <mxGeometry height="220" width="220" x="1110" y="600.63" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-219" edge="1" parent="1" source="EVojNnDcP1BY-2hD74Gh-193" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EVojNnDcP1BY-2hD74Gh-218" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="849" y="710" />
+            </Array>
+            <mxPoint x="860" y="590" as="sourcePoint" />
+            <mxPoint x="910" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="历史最优表现，例：" vertex="1">
+          <mxGeometry height="30" width="130" x="1110" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
