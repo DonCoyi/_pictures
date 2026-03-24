@@ -825,12 +825,6 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-122" parent="EVojNnDcP1BY-2hD74Gh-74" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="5" vertex="1">
           <mxGeometry height="30" width="30" x="160" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-123" parent="EVojNnDcP1BY-2hD74Gh-74" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="40" width="110" x="344" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-124" parent="EVojNnDcP1BY-2hD74Gh-123" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实验环境" vertex="1">
-          <mxGeometry height="30" width="60" x="25" y="5" as="geometry" />
-        </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-118" parent="EVojNnDcP1BY-2hD74Gh-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="向LLM发送请求" vertex="1">
           <mxGeometry height="30" width="96" x="192" y="40" as="geometry" />
         </mxCell>
@@ -1203,6 +1197,9 @@
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-213" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="根据配置文件的开关和配置类中的参数信息生成参数详情" vertex="1">
           <mxGeometry height="30" width="110" x="220" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实验环境" vertex="1">
+          <mxGeometry height="35" width="126" x="1100" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
