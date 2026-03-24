@@ -861,6 +861,12 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-161" parent="EVojNnDcP1BY-2hD74Gh-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="状态建模与记忆模块" vertex="1">
           <mxGeometry height="30.63" width="140" x="8" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-166" parent="EVojNnDcP1BY-2hD74Gh-160" style="rounded=0;whiteSpace=wrap;html=1;" value="user message" vertex="1">
+          <mxGeometry height="40" width="122" x="17" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-167" parent="EVojNnDcP1BY-2hD74Gh-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据结构" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="30" as="geometry" />
+        </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-127" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="返回工具执行结果" vertex="1">
           <mxGeometry height="30" width="100" x="612" y="190" as="geometry" />
         </mxCell>
@@ -871,7 +877,7 @@
           <mxGeometry height="50" width="100" x="612" y="90" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-165" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存储用户请求、模型回答、执行结果到历史信息中" vertex="1">
-          <mxGeometry height="100" width="46" x="666" y="240" as="geometry" />
+          <mxGeometry height="110" width="46" x="666" y="240" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-1" edge="1" parent="1" style="endArrow=none;startArrow=open;html=1;rounded=0;strokeColor=light-dark(#aaaaa7, #ededed);dashed=1;startFill=0;endFill=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
