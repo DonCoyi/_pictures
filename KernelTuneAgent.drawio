@@ -865,7 +865,13 @@
           <mxGeometry height="40" width="122" x="17" y="60" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-167" parent="EVojNnDcP1BY-2hD74Gh-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据结构" vertex="1">
-          <mxGeometry height="30" width="60" x="40" y="30" as="geometry" />
+          <mxGeometry height="30" width="60" x="48" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-168" parent="EVojNnDcP1BY-2hD74Gh-160" style="rounded=0;whiteSpace=wrap;html=1;" value="assistant message" vertex="1">
+          <mxGeometry height="40" width="122" x="17" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-169" parent="EVojNnDcP1BY-2hD74Gh-160" style="rounded=0;whiteSpace=wrap;html=1;" value="tool message" vertex="1">
+          <mxGeometry height="40" width="122" x="17" y="160" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-127" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="返回工具执行结果" vertex="1">
           <mxGeometry height="30" width="100" x="612" y="190" as="geometry" />
