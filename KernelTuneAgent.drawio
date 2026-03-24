@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="9">
   <diagram name="第 1 页" id="Yojr4Mls63myWTOVn5mj">
     <mxGraphModel dx="653" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -755,7 +755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="1120" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3344" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,6 +1036,44 @@
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="历史最优表现，例：" vertex="1">
           <mxGeometry height="30" width="130" x="1110" y="570.63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2jsylV8-iAIO-mAPb4Em" name="第 9 页">
+    <mxGraphModel dx="1259" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xDm2F0aq0BNENoEkV0io-1" parent="1" style="swimlane;startSize=0;fontFamily=宋体;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="410" width="410" x="130" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-4" parent="xDm2F0aq0BNENoEkV0io-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="70" width="350" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-5" parent="xDm2F0aq0BNENoEkV0io-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;调用工具列表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-9" parent="xDm2F0aq0BNENoEkV0io-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;bash_execute: sysctl ...&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;bash_execute: python ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;bash_execute: grep ...&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-6" parent="xDm2F0aq0BNENoEkV0io-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="90" width="350" x="30" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-7" parent="xDm2F0aq0BNENoEkV0io-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;工具执行结果&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-10" parent="xDm2F0aq0BNENoEkV0io-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;bash_execute: sysctl ...&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-2" parent="1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="140" width="350" x="160" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-3" parent="xDm2F0aq0BNENoEkV0io-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;思维链&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xDm2F0aq0BNENoEkV0io-8" parent="xDm2F0aq0BNENoEkV0io-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分析用户请求&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;分析搜索阶段、阶段规则&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;挑选符合规则的参数、验证调整幅度&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;分析调用工具顺序&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="280" x="40" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
