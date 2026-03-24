@@ -992,7 +992,7 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-44" parent="EVojNnDcP1BY-2hD74Gh-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="系统配置文件" vertex="1">
           <mxGeometry height="30.63" width="82.5" x="53.75" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-62" parent="EVojNnDcP1BY-2hD74Gh-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="numa: True&lt;div&gt;train command: ./lora.sh&lt;/div&gt;&lt;div&gt;target: 0.1&lt;/div&gt;" vertex="1">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-62" parent="EVojNnDcP1BY-2hD74Gh-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="numa: True&lt;div&gt;train command: ./lora.sh&lt;/div&gt;&lt;div&gt;target: 0.1&lt;/div&gt;&lt;div&gt;maxstep: 10&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="20" y="140" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-81" parent="EVojNnDcP1BY-2hD74Gh-41" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="1" vertex="1">
