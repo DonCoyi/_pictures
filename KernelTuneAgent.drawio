@@ -755,7 +755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="910" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="416" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-51" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="450" width="340" x="30" y="20" as="geometry" />
+          <mxGeometry height="450" width="340" x="40" y="20" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-59" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
           <mxGeometry height="190" width="300" x="14" y="40" as="geometry" />
@@ -782,6 +782,18 @@
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-79" parent="EVojNnDcP1BY-2hD74Gh-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="决策与策略生成模块" vertex="1">
           <mxGeometry height="30.63" width="140" y="9.370000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-64" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="190" width="300" x="14" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-66" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="【用户请求】&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;根据调优阶段规则进行参数推荐，并通过命令行修改所有参数取值为推荐值，跑一次模型，读取日志文件&lt;br&gt;&lt;div&gt;【阶段规则】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;当前阶段{phase.value}&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;优先调整影响度为xxx的参数&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;至少调整xx个参数&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;调整幅度至少为xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;【性能反馈】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;上一轮参数组合带来了xxx的正/负提升，应围绕/避免该参数组合进行推荐。&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="154.69" width="294" x="6" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-68" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基于性能反馈的阶段策略生成" vertex="1">
+          <mxGeometry height="30.63" width="170" x="34" y="9.992007221626409e-16" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-194" parent="EVojNnDcP1BY-2hD74Gh-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="9" vertex="1">
+          <mxGeometry height="30" width="30" x="6" y="4.551914400963142e-15" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-74" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="300" width="150" x="420" y="20" as="geometry" />
@@ -937,6 +949,12 @@
             <mxPoint x="-36" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-216" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-63" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=-0.022;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-96" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="194" y="270" as="sourcePoint" />
+            <mxPoint x="244" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-41" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="220" width="190" x="116" y="120" as="geometry" />
         </mxCell>
@@ -958,22 +976,10 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="调优系统" vertex="1">
           <mxGeometry height="30" width="60" x="701" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-64" parent="1" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="190" width="300" x="380" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-66" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="【用户请求】&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;根据调优阶段规则进行参数推荐，并通过命令行修改所有参数取值为推荐值，跑一次模型，读取日志文件&lt;br&gt;&lt;div&gt;【阶段规则】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;当前阶段{phase.value}&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;优先调整影响度为xxx的参数&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;至少调整xx个参数&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;调整幅度至少为xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;【性能反馈】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;上一轮参数组合带来了xxx的正/负提升，应围绕/避免该参数组合进行推荐。&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="154.69" width="294" x="6" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-68" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基于性能反馈的阶段策略生成" vertex="1">
-          <mxGeometry height="30.63" width="170" x="34" y="9.992007221626409e-16" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-194" parent="EVojNnDcP1BY-2hD74Gh-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="9" vertex="1">
-          <mxGeometry height="30" width="30" x="6" y="4.551914400963142e-15" as="geometry" />
-        </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="3-1" vertex="1">
           <mxGeometry height="30" width="30" x="306" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-83" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-83" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-59" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="308" y="250" as="sourcePoint" />
             <mxPoint x="380" y="250" as="targetPoint" />
