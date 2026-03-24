@@ -1096,10 +1096,10 @@
           <mxGeometry height="35" width="126" x="1110" y="320" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-123" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="200" width="200" x="1110" y="440" as="geometry" />
+          <mxGeometry height="40" width="110" x="1110" y="480" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-124" parent="EVojNnDcP1BY-2hD74Gh-123" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实验环境" vertex="1">
-          <mxGeometry height="30" width="60" x="10" y="10" as="geometry" />
+          <mxGeometry height="30" width="60" x="25" y="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
