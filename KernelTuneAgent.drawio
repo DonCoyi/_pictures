@@ -755,7 +755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="441" dy="1422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-51" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="470" width="340" x="30" y="20" as="geometry" />
+          <mxGeometry height="450" width="340" x="30" y="20" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-59" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
           <mxGeometry height="190" width="300" x="14" y="40" as="geometry" />
@@ -857,6 +857,21 @@
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-170" parent="EVojNnDcP1BY-2hD74Gh-158" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="7" vertex="1">
           <mxGeometry height="30" width="30" x="8" y="40.629999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-189" parent="EVojNnDcP1BY-2hD74Gh-158" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="判断调优流程是否结束" vertex="1">
+          <mxGeometry height="30" width="86" x="44" y="40.629999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-190" parent="EVojNnDcP1BY-2hD74Gh-158" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="8-1" vertex="1">
+          <mxGeometry height="30" width="30" x="8" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-191" parent="EVojNnDcP1BY-2hD74Gh-158" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="未结束，根据记忆模块的信息调整搜索阶段" vertex="1">
+          <mxGeometry height="50" width="86" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-192" parent="EVojNnDcP1BY-2hD74Gh-158" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="8-2" vertex="1">
+          <mxGeometry height="30" width="30" x="8" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-193" parent="EVojNnDcP1BY-2hD74Gh-158" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="结束，输出历史最优表现" vertex="1">
+          <mxGeometry height="50" width="86" x="50" y="150" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-160" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="210" width="156" x="584" y="360" as="geometry" />
@@ -1132,7 +1147,10 @@
           <mxGeometry height="154.69" width="294" x="6" y="30" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-68" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基于性能反馈的阶段策略生成" vertex="1">
-          <mxGeometry height="30.63" width="170" y="-0.629999999999999" as="geometry" />
+          <mxGeometry height="30.63" width="170" x="34" y="9.992007221626409e-16" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-194" parent="EVojNnDcP1BY-2hD74Gh-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="9" vertex="1">
+          <mxGeometry height="30" width="30" y="-0.6299999999999955" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="3" vertex="1">
           <mxGeometry height="30" width="30" x="306" y="210" as="geometry" />
