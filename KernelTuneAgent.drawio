@@ -755,7 +755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="766" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="441" dy="1422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -855,6 +855,9 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-159" parent="EVojNnDcP1BY-2hD74Gh-158" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="控制与流程管理" vertex="1">
           <mxGeometry height="30.63" width="140" x="4" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-170" parent="EVojNnDcP1BY-2hD74Gh-158" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="7" vertex="1">
+          <mxGeometry height="30" width="30" x="8" y="40.629999999999995" as="geometry" />
+        </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-160" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="210" width="156" x="584" y="360" as="geometry" />
         </mxCell>
@@ -884,6 +887,12 @@
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-165" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存储用户请求、模型回答、执行结果到历史信息中" vertex="1">
           <mxGeometry height="110" width="46" x="666" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-171" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-85" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.54;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-158" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="494.47" y="300" as="sourcePoint" />
+            <mxPoint x="494" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-1" edge="1" parent="1" style="endArrow=none;startArrow=open;html=1;rounded=0;strokeColor=light-dark(#aaaaa7, #ededed);dashed=1;startFill=0;endFill=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
