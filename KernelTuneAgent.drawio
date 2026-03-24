@@ -856,7 +856,7 @@
           <mxGeometry height="30.63" width="140" x="8" y="10" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-127" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="返回工具执行结果" vertex="1">
-          <mxGeometry height="30" width="100" x="612" y="205" as="geometry" />
+          <mxGeometry height="30" width="100" x="612" y="190" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-126" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通过工具执行命令" vertex="1">
           <mxGeometry height="30" width="100" x="612" y="160" as="geometry" />
