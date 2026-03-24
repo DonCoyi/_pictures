@@ -870,7 +870,7 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-119" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LLM回复思考过程和工具调用列表" vertex="1">
           <mxGeometry height="50" width="100" x="612" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-165" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存储模型回答、执行结果到历史信息中" vertex="1">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-165" parent="uptyPVTzqTh4P8V1TLAQ-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存储用户请求、模型回答、执行结果到历史信息中" vertex="1">
           <mxGeometry height="100" width="46" x="666" y="240" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-1" edge="1" parent="1" style="endArrow=none;startArrow=open;html=1;rounded=0;strokeColor=light-dark(#aaaaa7, #ededed);dashed=1;startFill=0;endFill=0;strokeWidth=2;" value="">
