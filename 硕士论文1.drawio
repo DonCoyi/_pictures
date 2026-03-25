@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
   <diagram name="第 1 页" id="A1iWoGut7Abg6qGeU8Iv">
-    <mxGraphModel dx="345" dy="188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,12 +169,6 @@
             <mxPoint x="990" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUC70yUYy9av7D1dvwp2-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="994.85" as="sourcePoint" />
-            <mxPoint x="1020" y="994.71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="990" y="834.71" as="sourcePoint" />
@@ -190,7 +184,7 @@
         <mxCell id="qUC70yUYy9av7D1dvwp2-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="990" y="834.71" as="sourcePoint" />
-            <mxPoint x="990" y="994.71" as="targetPoint" />
+            <mxPoint x="990" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
@@ -201,6 +195,21 @@
             <mxPoint x="955" y="834.71" as="sourcePoint" />
             <mxPoint x="995" y="834.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qUC70yUYy9av7D1dvwp2-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;参数元信息建模&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="1020" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="qUC70yUYy9av7D1dvwp2-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;参数开关&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="1020" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qUC70yUYy9av7D1dvwp2-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;阶段控制的动态搜索空间&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="1020" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="qUC70yUYy9av7D1dvwp2-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;状态建模与Prompt设计&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="1020" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="qUC70yUYy9av7D1dvwp2-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;阶段化调优策略&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="1020" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
