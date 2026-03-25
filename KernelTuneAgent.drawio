@@ -930,7 +930,7 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-74" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="300" width="150" x="420" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-80" parent="EVojNnDcP1BY-2hD74Gh-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="模型交互接口" vertex="1">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-80" parent="EVojNnDcP1BY-2hD74Gh-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;模型交互接口&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="140" x="4" y="9.370000000000005" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-129" edge="1" parent="EVojNnDcP1BY-2hD74Gh-74" source="EVojNnDcP1BY-2hD74Gh-114" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="EVojNnDcP1BY-2hD74Gh-96" value="">
@@ -1072,7 +1072,7 @@
           <mxGeometry height="70" width="136" x="184" y="40.63" as="geometry" />
         </mxCell>
         <mxCell id="jLeTwl52tbujKfMAv5CO-2" parent="F3OqSSgKODp6mbm3PKyV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;包含文件操作、命令行执行、python命令&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="150" x="24" y="60" as="geometry" />
+          <mxGeometry height="40" width="150" x="20" y="55.63" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" style="endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-195" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1140,6 +1140,30 @@
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="历史最优表现，例：" vertex="1">
           <mxGeometry height="30" width="130" x="1110" y="570.63" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-3" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="210" width="379" x="1241" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-4" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;控制与流程管理&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30.63" width="140" x="4" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-5" parent="jLeTwl52tbujKfMAv5CO-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="7" vertex="1">
+          <mxGeometry height="30" width="30" x="8" y="40.629999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-6" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="判断调优流程是否结束" vertex="1">
+          <mxGeometry height="30" width="86" x="44" y="40.629999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-7" parent="jLeTwl52tbujKfMAv5CO-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="8-1" vertex="1">
+          <mxGeometry height="30" width="30" x="8" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-8" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="未结束，根据记忆模块的信息调整搜索阶段" vertex="1">
+          <mxGeometry height="50" width="86" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-9" parent="jLeTwl52tbujKfMAv5CO-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="8-2" vertex="1">
+          <mxGeometry height="30" width="30" x="8" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-10" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="结束，输出历史最优表现" vertex="1">
+          <mxGeometry height="50" width="86" x="50" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
