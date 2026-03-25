@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="13">
   <diagram name="第 1 页" id="Yojr4Mls63myWTOVn5mj">
     <mxGraphModel dx="653" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1237,6 +1237,69 @@
         </mxCell>
         <mxCell id="Wv_rcSEGFepc77KgOPEj-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;包含阶段策略与性能反馈的&quot;用户&quot;请求&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="310" x="450" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Sma_2rq7VDFjDdPXskjg" name="第 13 页">
+    <mxGraphModel dx="591" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-1" edge="1" parent="1" source="GCq_cV-GTvnMzjgP5yQa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GCq_cV-GTvnMzjgP5yQa-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;解析参数开关、训练命令、最大迭代次数、调优目标信息&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="530" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-3" edge="1" parent="1" source="GCq_cV-GTvnMzjgP5yQa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GCq_cV-GTvnMzjgP5yQa-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;将训练命令、最大迭代次数、调优目标信息映射到系统提示词&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="530" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据参数开关，读取系统中的配置类（存放可调参数元信息），映射到系统提示词。&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="530" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-6" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="280" width="320" x="510" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;策略生成模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="510" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-12" edge="1" parent="1" source="GCq_cV-GTvnMzjgP5yQa-5" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="690" />
+              <mxPoint x="850" y="510" />
+            </Array>
+            <mxPoint x="810" y="510" as="sourcePoint" />
+            <mxPoint x="870" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-13" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="140" width="190" x="870" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-14" parent="GCq_cV-GTvnMzjgP5yQa-13" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;第一轮调优，将系统提示词作为输入，调用LLM的交互接口，发送请求&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="15" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;控制流程模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="870" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-18" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="140" width="220" x="260" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="lhDMExfT9w_OsmoFlsXm-1" parent="GCq_cV-GTvnMzjgP5yQa-18" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
+          <mxGeometry height="105" width="180" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sF4Ywp2A0yGnTzZwlXXE-1" parent="lhDMExfT9w_OsmoFlsXm-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;历史消息：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;用户请求&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;模型回答&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;工具执行结果&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="5" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;记忆模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="280" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;第一轮调优，将系统提示词作为输入，调用LLM的交互接口，发送请求&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="70" y="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
