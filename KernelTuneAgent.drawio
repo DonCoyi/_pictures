@@ -1235,8 +1235,8 @@
         <mxCell id="Wv_rcSEGFepc77KgOPEj-15" parent="Wv_rcSEGFepc77KgOPEj-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显式约束调优系统按照阶段规则进行配置推荐&lt;br&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="340" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wv_rcSEGFepc77KgOPEj-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;包含阶段策略与性能反馈的&quot;用户&quot;请求&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="310" x="450" y="370" as="geometry" />
+        <mxCell id="Wv_rcSEGFepc77KgOPEj-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;用户请求&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="450" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
