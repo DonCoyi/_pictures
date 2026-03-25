@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1056,16 +1056,6 @@
         <mxCell id="cJD9z4taI-ZiOQ3mOL_o-76" parent="EVojNnDcP1BY-2hD74Gh-195" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;包含参数元信息和阶段调优策略&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="252" x="48" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-63" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="14" y="205" />
-              <mxPoint x="14" y="525" />
-            </Array>
-            <mxPoint x="64" y="140.0000000000001" as="sourcePoint" />
-            <mxPoint x="44" y="524.8291100000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-216" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-59" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.15;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-96" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="194" y="270" as="sourcePoint" />
@@ -1086,6 +1076,16 @@
         </mxCell>
         <mxCell id="F3OqSSgKODp6mbm3PKyV-6" parent="F3OqSSgKODp6mbm3PKyV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;file_editor&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="122" x="148" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" style="endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-195" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-36" y="205" />
+              <mxPoint x="-36" y="525" />
+            </Array>
+            <mxPoint x="54" y="205" as="sourcePoint" />
+            <mxPoint x="-6" y="524.8291100000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-41" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="220" width="190" x="60" y="120" as="geometry" />
@@ -1121,10 +1121,10 @@
           <mxGeometry height="60" width="90" x="250" y="220" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-212" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="3-2" vertex="1">
-          <mxGeometry height="30" width="30" x="300" y="420" as="geometry" />
+          <mxGeometry height="30" width="30" x="190" y="420" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-213" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据配置文件的开关和配置类中的参数信息生成可调参数详情&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="150" x="180" y="460" as="geometry" />
+          <mxGeometry height="70" width="150" x="130" y="460" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实验环境" vertex="1">
           <mxGeometry height="35" width="126" x="1100" y="290" as="geometry" />
