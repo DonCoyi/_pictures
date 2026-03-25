@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="14">
   <diagram name="第 1 页" id="Yojr4Mls63myWTOVn5mj">
     <mxGraphModel dx="653" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1215,7 +1215,7 @@
           <mxGeometry height="30" width="120" y="10" as="geometry" />
         </mxCell>
         <mxCell id="Wv_rcSEGFepc77KgOPEj-8" parent="Wv_rcSEGFepc77KgOPEj-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;baseline: xxx秒&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;上一轮相比baseline快/慢xxx%&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应当围绕/避免相似配置&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="350" y="30" as="geometry" />
+          <mxGeometry height="90" width="300" x="20" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Wv_rcSEGFepc77KgOPEj-9" parent="Wv_rcSEGFepc77KgOPEj-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
           <mxGeometry height="120" width="350" x="30" y="100" as="geometry" />
@@ -1233,7 +1233,7 @@
           <mxGeometry height="30" width="110" as="geometry" />
         </mxCell>
         <mxCell id="Wv_rcSEGFepc77KgOPEj-15" parent="Wv_rcSEGFepc77KgOPEj-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显式约束调优系统按照阶段规则进行配置推荐&lt;br&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="340" y="30" as="geometry" />
+          <mxGeometry height="40" width="340" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Wv_rcSEGFepc77KgOPEj-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;包含阶段策略与性能反馈的&quot;用户&quot;请求&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="310" x="450" y="370" as="geometry" />
@@ -1302,6 +1302,47 @@
         </mxCell>
         <mxCell id="sF4Ywp2A0yGnTzZwlXXE-6" edge="1" parent="1" source="sF4Ywp2A0yGnTzZwlXXE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GCq_cV-GTvnMzjgP5yQa-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T1mXm89lunbhiMaedoty" name="第 14 页">
+    <mxGraphModel dx="862" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-1" parent="1" style="swimlane;startSize=0;fontFamily=宋体;fontStyle=0" value="" vertex="1">
+          <mxGeometry height="380" width="410" x="210" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-2" parent="wQkuqnpp1hOPPHl1WQv5-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
+          <mxGeometry height="120" width="350" x="30" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-3" parent="wQkuqnpp1hOPPHl1WQv5-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【性能反馈】&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-4" parent="wQkuqnpp1hOPPHl1WQv5-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;baseline: xxx秒&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;上一轮相比baseline快/慢xxx%&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应当围绕/避免相似配置&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="350" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-5" parent="wQkuqnpp1hOPPHl1WQv5-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
+          <mxGeometry height="120" width="350" x="30" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-6" parent="wQkuqnpp1hOPPHl1WQv5-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【阶段规则】&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-7" parent="wQkuqnpp1hOPPHl1WQv5-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;当前阶段信息&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;优先调整影响级别为xx的参数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;至少调整xx个参数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;调整幅度至少为xx&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="220" x="20" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-8" parent="wQkuqnpp1hOPPHl1WQv5-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
+          <mxGeometry height="70" width="350" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-9" parent="wQkuqnpp1hOPPHl1WQv5-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;【用户请求】&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-10" parent="wQkuqnpp1hOPPHl1WQv5-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;显式约束调优系统按照阶段规则进行配置推荐&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQkuqnpp1hOPPHl1WQv5-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;用户请求&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="190" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
