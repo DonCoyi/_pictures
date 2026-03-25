@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="899" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="492" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1048,37 +1048,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-195" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="200" width="360" x="30" y="490" as="geometry" />
+          <mxGeometry height="60" width="360" x="30" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-196" parent="EVojNnDcP1BY-2hD74Gh-195" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="配置类" vertex="1">
-          <mxGeometry height="30.63" width="140" x="-30" as="geometry" />
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-196" parent="EVojNnDcP1BY-2hD74Gh-195" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;配置类&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30.63" width="140" x="-6" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-204" parent="EVojNnDcP1BY-2hD74Gh-195" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="160" width="140" x="14" y="30" as="geometry" />
+        <mxCell id="cJD9z4taI-ZiOQ3mOL_o-76" parent="EVojNnDcP1BY-2hD74Gh-195" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;包含参数元信息和阶段调优策略&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="252" x="48" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-205" parent="EVojNnDcP1BY-2hD74Gh-204" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="参数类，例：" vertex="1">
-          <mxGeometry height="30.63" width="80" x="10" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-208" parent="EVojNnDcP1BY-2hD74Gh-204" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;vm.page-cluster&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;range&quot;: &quot;0-8&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;default&quot;: &quot;3&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;step&quot;: &quot;1&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;switch&quot;: None,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;impact&quot;: high,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;coupling&quot;: &quot;low&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;" vertex="1">
-          <mxGeometry height="129.37" width="140" y="30.63" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-206" parent="EVojNnDcP1BY-2hD74Gh-195" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="140" width="176" x="174" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-207" parent="EVojNnDcP1BY-2hD74Gh-206" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="阶段类" vertex="1">
-          <mxGeometry height="30.63" width="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-209" parent="EVojNnDcP1BY-2hD74Gh-206" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; EXPLORATION =&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;( 0.20, 5, False, high)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; EXPLOITATION =&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(0.08, 3, False, medium)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; REFINEMENT =&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;( 0.02, 1, False, low)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="160" x="10" y="30.630000000000003" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-208" value="">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-63" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="14" y="232" />
-              <mxPoint x="14" y="590" />
+              <mxPoint x="14" y="205" />
+              <mxPoint x="14" y="525" />
             </Array>
-            <mxPoint x="34" y="230" as="sourcePoint" />
-            <mxPoint x="-36" y="580" as="targetPoint" />
+            <mxPoint x="64" y="140.0000000000001" as="sourcePoint" />
+            <mxPoint x="44" y="524.8291100000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-216" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-59" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.15;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-96" value="">
