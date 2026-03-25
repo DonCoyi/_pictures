@@ -971,13 +971,13 @@
           <mxGeometry height="210" width="331" x="9" y="40.629999999999995" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-160" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="210" width="276" x="444" y="330" as="geometry" />
+          <mxGeometry height="110" width="250" x="470" y="330" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-161" parent="EVojNnDcP1BY-2hD74Gh-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;记忆模块&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30.63" width="140" x="8" y="10" as="geometry" />
+          <mxGeometry height="30.63" width="114" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-29" parent="EVojNnDcP1BY-2hD74Gh-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;历史消息：包含用户请求、模型决策、工具执行结果&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="25.5" y="40.629999999999995" as="geometry" />
+        <mxCell id="jLeTwl52tbujKfMAv5CO-29" parent="EVojNnDcP1BY-2hD74Gh-160" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;历史消息：包含用户请求、模型决策、工具执行结果&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="224.5" x="12.75" y="40.63" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-41" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="220" width="190" x="60" y="120" as="geometry" />
