@@ -11,7 +11,7 @@
           <mxGeometry height="60" width="170" x="210" y="610" as="geometry" />
         </mxCell>
         <mxCell id="3LosNY31oBDAxgsh8-4e-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;调优系统设计&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="210" y="720" as="geometry" />
+          <mxGeometry height="60" width="170" x="210" y="720" as="geometry" />
         </mxCell>
         <mxCell id="3LosNY31oBDAxgsh8-4e-5" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font face=&quot;宋体&quot;&gt;研究问题&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="260" y="550" as="geometry" />
@@ -61,7 +61,7 @@
             <mxPoint x="715" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-4" edge="1" parent="1" source="3LosNY31oBDAxgsh8-4e-4" style="endArrow=none;html=1;rounded=0;exitX=1.003;exitY=0.362;exitDx=0;exitDy=0;fontSize=20;exitPerimeter=0;" value="">
+        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-4" edge="1" parent="1" source="3LosNY31oBDAxgsh8-4e-4" style="endArrow=none;html=1;rounded=0;exitX=1.004;exitY=0.417;exitDx=0;exitDy=0;fontSize=20;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="380" y="760" as="sourcePoint" />
             <mxPoint x="410" y="745" as="targetPoint" />
