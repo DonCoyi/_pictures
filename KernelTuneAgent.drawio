@@ -885,29 +885,32 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-51" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="450" width="340" x="40" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-59" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-59" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="190" width="300" x="14" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-63" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="【可用工具】&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;bash_execute&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;python_execute&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;file_editor&lt;br&gt;&lt;div&gt;【常用命令】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;训练命令: {train command}&lt;br&gt;&lt;/div&gt;&lt;div&gt;【任务目标】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;推荐sysctl配置，运行训练命令，获取日志信息，得到训练时长。重复这一过程。&lt;br&gt;&lt;/div&gt;&lt;div&gt;【可调参数详情】&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;{根据配置文件和参数信息，由该模块生成}&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="154.69" width="294" x="6" y="30.000000000000004" as="geometry" />
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-63" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可用工具】&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【常用命令】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【任务目标】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可调参数详情】&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="144" x="10" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-67" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="系统提示词" vertex="1">
-          <mxGeometry height="30.63" width="82.5" x="6" as="geometry" />
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-67" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;系统提示词&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30.63" width="120" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-79" parent="EVojNnDcP1BY-2hD74Gh-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="策略生成模块" vertex="1">
+        <mxCell id="cJD9z4taI-ZiOQ3mOL_o-70" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可用工具】&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【常用命令】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【任务目标】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可调参数详情】&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="144" x="156" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-79" parent="EVojNnDcP1BY-2hD74Gh-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;策略生成模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="140" y="9.370000000000005" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-64" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;dashed=1;" value="" vertex="1">
-          <mxGeometry height="190" width="300" x="14" y="240" as="geometry" />
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-64" parent="EVojNnDcP1BY-2hD74Gh-51" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="190" width="306" x="14" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-66" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="【用户请求】&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;根据调优阶段规则进行参数推荐，并通过命令行修改所有参数取值为推荐值，跑一次模型，读取日志文件&lt;br&gt;&lt;div&gt;【阶段规则】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;当前阶段{phase.value}&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;优先调整影响度为xxx的参数&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;至少调整xx个参数&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;调整幅度至少为xx&lt;br&gt;&lt;/div&gt;&lt;div&gt;【性能反馈】&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;上一轮参数组合带来了xxx的正/负提升，应围绕/避免该参数组合进行推荐。&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="154.69" width="294" x="6" y="30" as="geometry" />
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-66" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【用户请求】&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【阶段规则】&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【性能反馈】&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="144" x="20" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-68" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基于性能反馈的阶段策略生成" vertex="1">
-          <mxGeometry height="30.63" width="170" x="34" y="9.992007221626409e-16" as="geometry" />
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-68" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;用户请求（包含阶段策略和性能反馈）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30.63" width="276" x="30" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-194" parent="EVojNnDcP1BY-2hD74Gh-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="9" vertex="1">
-          <mxGeometry height="30" width="30" x="6" y="4.551914400963142e-15" as="geometry" />
+          <mxGeometry height="30" width="30" y="4.551914400963142e-15" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-74" parent="uptyPVTzqTh4P8V1TLAQ-1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="300" width="150" x="420" y="20" as="geometry" />
@@ -1053,13 +1056,13 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-209" parent="EVojNnDcP1BY-2hD74Gh-206" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; EXPLORATION =&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;( 0.20, 5, False, high)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; EXPLOITATION =&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(0.08, 3, False, medium)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; REFINEMENT =&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;( 0.02, 1, False, low)&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="160" x="10" y="30.630000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" source="EVojNnDcP1BY-2hD74Gh-63" style="endArrow=classic;html=1;rounded=0;exitX=0.01;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-208" value="">
+        <mxCell id="EVojNnDcP1BY-2hD74Gh-211" edge="1" parent="uptyPVTzqTh4P8V1TLAQ-1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;" target="EVojNnDcP1BY-2hD74Gh-208" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="14" y="232" />
               <mxPoint x="14" y="590" />
             </Array>
-            <mxPoint x="294" y="330" as="sourcePoint" />
+            <mxPoint x="34" y="230" as="sourcePoint" />
             <mxPoint x="-36" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
