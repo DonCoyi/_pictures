@@ -1132,7 +1132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9MgEA9r9UYTQQn3wUuYE" name="第 11 页">
-    <mxGraphModel dx="591" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1171,6 +1171,25 @@
         </mxCell>
         <mxCell id="CdlEetbsh1Fod8uWoPVt-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;读取&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="170" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CdlEetbsh1Fod8uWoPVt-7" edge="1" parent="1" source="s5o88uzfzazcOF4YzzDP-9" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="480" />
+              <mxPoint x="560" y="300" />
+            </Array>
+            <mxPoint x="520" y="300" as="sourcePoint" />
+            <mxPoint x="580" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdlEetbsh1Fod8uWoPVt-8" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="150" width="190" x="580" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="CdlEetbsh1Fod8uWoPVt-10" parent="CdlEetbsh1Fod8uWoPVt-8" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;第一轮调优，将系统提示词作为输入，调用LLM的交互接口，发送请求&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdlEetbsh1Fod8uWoPVt-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;控制流程模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="580" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
