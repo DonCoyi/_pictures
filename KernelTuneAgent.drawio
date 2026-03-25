@@ -1249,13 +1249,13 @@
         <mxCell id="GCq_cV-GTvnMzjgP5yQa-1" edge="1" parent="1" source="GCq_cV-GTvnMzjgP5yQa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GCq_cV-GTvnMzjgP5yQa-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GCq_cV-GTvnMzjgP5yQa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;解析参数开关、训练命令、最大迭代次数、调优目标信息&lt;/font&gt;" vertex="1">
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据上一轮训练时长信息，生成性能反馈，映射到用户请求&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="280" x="820" y="480" as="geometry" />
         </mxCell>
         <mxCell id="GCq_cV-GTvnMzjgP5yQa-3" edge="1" parent="1" source="GCq_cV-GTvnMzjgP5yQa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GCq_cV-GTvnMzjgP5yQa-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GCq_cV-GTvnMzjgP5yQa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;将训练命令、最大迭代次数、调优目标信息映射到系统提示词&lt;/font&gt;" vertex="1">
+        <mxCell id="GCq_cV-GTvnMzjgP5yQa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据当前调优阶段，将配置类中的阶段规则映射到用户请求。&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="280" x="820" y="570" as="geometry" />
         </mxCell>
         <mxCell id="GCq_cV-GTvnMzjgP5yQa-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据参数开关，读取系统中的配置类（存放可调参数元信息），映射到系统提示词。&lt;/font&gt;" vertex="1">
@@ -1276,7 +1276,7 @@
         <mxCell id="GCq_cV-GTvnMzjgP5yQa-14" parent="GCq_cV-GTvnMzjgP5yQa-13" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;读取上一轮工具执行结果中的日志信息，获取上一轮训练时长&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="235" x="12.5" y="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="sF4Ywp2A0yGnTzZwlXXE-4" parent="GCq_cV-GTvnMzjgP5yQa-13" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;根据上一轮性能表现更改调优阶段，并将阶段信息和上一轮时长传递给策略生成模块&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="sF4Ywp2A0yGnTzZwlXXE-4" parent="GCq_cV-GTvnMzjgP5yQa-13" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;根据上一轮性能表现更改调优阶段，并将阶段信息和上一轮训练时长传递给策略生成模块&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="235" x="12.5" y="160" as="geometry" />
         </mxCell>
         <mxCell id="GCq_cV-GTvnMzjgP5yQa-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;控制流程模块&lt;/font&gt;" vertex="1">
