@@ -1126,44 +1126,14 @@
         <mxCell id="EVojNnDcP1BY-2hD74Gh-215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实验环境" vertex="1">
           <mxGeometry height="35" width="126" x="1100" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-218" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-indent: 24pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-indent: 24pt;&quot;&gt;&quot;fs.file-max&quot;: 30000000,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;kernel.threads-max&quot;: 1638400,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.dirty_expire_centisecs&quot;: 5000,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.dirty_writeback_centisecs&quot;: 100,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.page-cluster&quot;: 8,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.swappiness&quot;: 0,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.watermark_scale_factor&quot;: 1000,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.dirty_background_ratio&quot;: 50,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.dirty_ratio&quot;: 80,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.overcommit_memory&quot;: 1,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;vm.overcommit_ratio&quot;: 100,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;kernel.numa_balancing&quot;: 0,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: 24pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;transparent_hugepage&quot;: 0&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="220" x="1110" y="600.63" as="geometry" />
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-219" edge="1" parent="1" source="EVojNnDcP1BY-2hD74Gh-193" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EVojNnDcP1BY-2hD74Gh-218" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="849" y="710" />
-            </Array>
-            <mxPoint x="860" y="590" as="sourcePoint" />
-            <mxPoint x="910" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EVojNnDcP1BY-2hD74Gh-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="历史最优表现，例：" vertex="1">
-          <mxGeometry height="30" width="130" x="1110" y="570.63" as="geometry" />
-        </mxCell>
         <mxCell id="jLeTwl52tbujKfMAv5CO-3" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="210" width="379" x="1241" y="340" as="geometry" />
+          <mxGeometry height="270" width="379" x="1241" y="340" as="geometry" />
         </mxCell>
         <mxCell id="jLeTwl52tbujKfMAv5CO-4" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;控制与流程管理&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="140" x="4" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-5" parent="jLeTwl52tbujKfMAv5CO-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="7" vertex="1">
-          <mxGeometry height="30" width="30" x="8" y="40.629999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-6" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="判断调优流程是否结束" vertex="1">
-          <mxGeometry height="30" width="86" x="44" y="40.629999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-7" parent="jLeTwl52tbujKfMAv5CO-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="8-1" vertex="1">
-          <mxGeometry height="30" width="30" x="8" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-8" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="未结束，根据记忆模块的信息调整搜索阶段" vertex="1">
-          <mxGeometry height="50" width="86" x="50" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-9" parent="jLeTwl52tbujKfMAv5CO-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="8-2" vertex="1">
-          <mxGeometry height="30" width="30" x="8" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="jLeTwl52tbujKfMAv5CO-10" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="结束，输出历史最优表现" vertex="1">
-          <mxGeometry height="50" width="86" x="50" y="150" as="geometry" />
+        <mxCell id="jLeTwl52tbujKfMAv5CO-11" parent="jLeTwl52tbujKfMAv5CO-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1.启动调优系统&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.通过模型交互接口得到模型对请求的思考&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.通过工具接口将模型的决策在环境中执行&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4.将上述结果保存到记忆模块&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5.判断是否结束调优&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6.更新阶段&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="331" x="29" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
