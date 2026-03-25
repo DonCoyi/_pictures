@@ -889,13 +889,19 @@
           <mxGeometry height="190" width="300" x="14" y="40" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-63" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可用工具】&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【常用命令】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【任务目标】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可调参数详情】&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="144" x="10" y="60" as="geometry" />
+          <mxGeometry height="100" width="144" x="10" y="70" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-67" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;系统提示词&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="120" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="cJD9z4taI-ZiOQ3mOL_o-70" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可用工具】&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【常用命令】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【任务目标】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;【可调参数详情】&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="144" x="156" y="60" as="geometry" />
+        <mxCell id="cJD9z4taI-ZiOQ3mOL_o-70" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;帮助代理系统理解任务，掌握常用命令，并具备可调参数详情的预备知识&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="144" x="154" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cJD9z4taI-ZiOQ3mOL_o-71" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;格式&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30.63" width="120" x="10" y="39.370000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="cJD9z4taI-ZiOQ3mOL_o-72" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;功能&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30.63" width="120" x="166" y="39.370000000000005" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-79" parent="EVojNnDcP1BY-2hD74Gh-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;策略生成模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="140" y="9.370000000000005" as="geometry" />
