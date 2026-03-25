@@ -1087,7 +1087,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hzYEx0_1pKMinN7WQCNz-1" parent="1" style="swimlane;startSize=0;fontFamily=宋体;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="450" width="400" x="460" y="420" as="geometry" />
+          <mxGeometry height="410" width="400" x="460" y="440" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-2" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=1" value="" vertex="1">
           <mxGeometry height="100" width="350" x="30" y="170" as="geometry" />
@@ -1096,7 +1096,7 @@
           <mxGeometry height="30" width="110" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-4" parent="hzYEx0_1pKMinN7WQCNz-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;包含调优过程中常用的命令行命令&lt;br&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="280" x="40" y="40" as="geometry" />
+          <mxGeometry height="40" width="280" x="10" y="50" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-5" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=1" value="" vertex="1">
           <mxGeometry height="120" width="350" x="30" y="280" as="geometry" />
@@ -1104,8 +1104,8 @@
         <mxCell id="hzYEx0_1pKMinN7WQCNz-6" parent="hzYEx0_1pKMinN7WQCNz-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可调参数详情&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="hzYEx0_1pKMinN7WQCNz-7" parent="hzYEx0_1pKMinN7WQCNz-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;由决策与策略生成模块根据系统配置文件生成&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="340" x="10" y="40" as="geometry" />
+        <mxCell id="hzYEx0_1pKMinN7WQCNz-7" parent="hzYEx0_1pKMinN7WQCNz-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;由决策与策略生成模块根据系统配置文件生成&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;包含可调参数的所有信息：取值范围、迭代步数、影响级别、耦合粒度&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="340" x="10" y="40" as="geometry" />
         </mxCell>
         <mxCell id="14pejdQ4dzrzLW25i7-7-2" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=1" value="" vertex="1">
           <mxGeometry height="90" width="350" x="30" y="50" as="geometry" />
@@ -1114,19 +1114,19 @@
           <mxGeometry height="30" width="110" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="x0dNTm0qBS52JRU1Y_oT-6" parent="14pejdQ4dzrzLW25i7-7-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;包含对工具功能的描述&lt;br&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="280" x="30" y="30" as="geometry" />
+          <mxGeometry height="40" width="190" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0dNTm0qBS52JRU1Y_oT-1" parent="14pejdQ4dzrzLW25i7-7-2" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;bash_execute&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="92" x="230" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x0dNTm0qBS52JRU1Y_oT-3" parent="14pejdQ4dzrzLW25i7-7-2" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;file_editor&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="82" x="235" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x0dNTm0qBS52JRU1Y_oT-2" parent="14pejdQ4dzrzLW25i7-7-2" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;python_execute&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="102" x="120" y="7.5" as="geometry" />
         </mxCell>
         <mxCell id="14pejdQ4dzrzLW25i7-7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统提示词&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="460" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="x0dNTm0qBS52JRU1Y_oT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;python_execute&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="122" x="960" y="475" as="geometry" />
-        </mxCell>
-        <mxCell id="x0dNTm0qBS52JRU1Y_oT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;file_editor&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="122" x="940" y="540" as="geometry" />
-        </mxCell>
-        <mxCell id="x0dNTm0qBS52JRU1Y_oT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;bash_execute&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="122" x="900" y="600" as="geometry" />
+          <mxGeometry height="30" width="170" x="450" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
