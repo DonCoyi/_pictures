@@ -1151,8 +1151,22 @@
         <mxCell id="s5o88uzfzazcOF4YzzDP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据参数开关，将系统中的配置类（存放可调参数元信息）映射到系统提示词&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="280" x="-70" y="330" as="geometry" />
         </mxCell>
+        <mxCell id="s5o88uzfzazcOF4YzzDP-10" edge="1" parent="1" source="s5o88uzfzazcOF4YzzDP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s5o88uzfzazcOF4YzzDP-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s5o88uzfzazcOF4YzzDP-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;将训练命令、最大迭代次数、调优目标信息映射到系统提示词&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="280" x="240" y="410" as="geometry" />
+          <mxGeometry height="60" width="280" x="240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="s5o88uzfzazcOF4YzzDP-12" edge="1" parent="1" source="s5o88uzfzazcOF4YzzDP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5o88uzfzazcOF4YzzDP-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;根据参数开关，读取系统中的配置类（存放可调参数元信息），映射到系统提示词。&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="240" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="s5o88uzfzazcOF4YzzDP-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;得到系统提示词&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
