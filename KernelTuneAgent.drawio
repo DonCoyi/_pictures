@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypsZMqbXgPVTw1SN5iM9" name="第 8 页">
-    <mxGraphModel dx="1088" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -886,7 +886,7 @@
           <mxGeometry height="120" width="160" x="10" y="70" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-67" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=宋体;" value="&lt;font&gt;生成系统提示词&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30.63" width="160" x="10" y="10" as="geometry" />
+          <mxGeometry height="30.63" width="160" x="20" y="10" as="geometry" />
         </mxCell>
         <mxCell id="cJD9z4taI-ZiOQ3mOL_o-70" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=宋体;" value="&lt;font&gt;&lt;span&gt;帮助代理系统理解任务，掌握常用命令，并具备可调参数详情的预备知识&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="140" width="118" x="180" y="70" as="geometry" />
@@ -896,6 +896,9 @@
         </mxCell>
         <mxCell id="cJD9z4taI-ZiOQ3mOL_o-72" parent="EVojNnDcP1BY-2hD74Gh-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=宋体;" value="&lt;font&gt;功能&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="120" x="166" y="39.370000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="jLeTwl52tbujKfMAv5CO-38" parent="EVojNnDcP1BY-2hD74Gh-59" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;fontSize=18;" value="3" vertex="1">
+          <mxGeometry height="20" width="20" x="10" y="15.319999999999993" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-79" parent="EVojNnDcP1BY-2hD74Gh-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=宋体;" value="&lt;font&gt;策略生成模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="30.63" width="140" y="9.370000000000005" as="geometry" />
@@ -907,7 +910,7 @@
           <mxGeometry height="90" width="140" x="10" y="100.63" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-68" parent="EVojNnDcP1BY-2hD74Gh-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=宋体;" value="&lt;font&gt;生成用户请求&lt;/font&gt;&lt;div&gt;&lt;font&gt;（包含阶段策略和性能反馈）&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="41.26" width="240" x="33" y="8.74" as="geometry" />
+          <mxGeometry height="41.26" width="240" x="36" y="8.74" as="geometry" />
         </mxCell>
         <mxCell id="EVojNnDcP1BY-2hD74Gh-194" parent="EVojNnDcP1BY-2hD74Gh-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fontFamily=宋体;" value="10" vertex="1">
           <mxGeometry height="20" width="20" x="10" y="8.74" as="geometry" />
