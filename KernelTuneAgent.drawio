@@ -1307,7 +1307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T1mXm89lunbhiMaedoty" name="第 14 页">
-    <mxGraphModel dx="492" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="591" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1362,11 +1362,8 @@
         <mxCell id="jwg3_HYseCwb5nbL2OGS-4" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="380" width="300" x="1020" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="jwg3_HYseCwb5nbL2OGS-6" parent="jwg3_HYseCwb5nbL2OGS-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;思维链&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="100" as="geometry" />
-        </mxCell>
         <mxCell id="jwg3_HYseCwb5nbL2OGS-7" parent="jwg3_HYseCwb5nbL2OGS-4" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="60" width="250" x="20" y="30" as="geometry" />
+          <mxGeometry height="70" width="250" x="20" y="10" as="geometry" />
         </mxCell>
         <mxCell id="jwg3_HYseCwb5nbL2OGS-8" parent="jwg3_HYseCwb5nbL2OGS-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【处理用户请求】&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="190" x="-30" as="geometry" />
@@ -1375,10 +1372,7 @@
           <mxGeometry height="40" width="210" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="jwg3_HYseCwb5nbL2OGS-10" parent="jwg3_HYseCwb5nbL2OGS-4" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="140" width="250" x="20" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jwg3_HYseCwb5nbL2OGS-11" parent="jwg3_HYseCwb5nbL2OGS-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【确认阶段和阶段规则，生成推荐】&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="260" x="-5" y="-1" as="geometry" />
+          <mxGeometry height="140" width="250" x="20" y="99" as="geometry" />
         </mxCell>
         <mxCell id="jwg3_HYseCwb5nbL2OGS-12" parent="jwg3_HYseCwb5nbL2OGS-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;通过系统提示词的可调参数列表中的信息，确认影响级别符合的参数&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;通过自检确认调整幅度是否符合要求&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="210" x="20" y="20" as="geometry" />
@@ -1392,6 +1386,9 @@
         <mxCell id="jwg3_HYseCwb5nbL2OGS-15" parent="jwg3_HYseCwb5nbL2OGS-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;结合用户请求和系统提示词中的任务描述，生成本轮迭代要执行的步骤和对应的工具列表&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="210" x="20" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="jwg3_HYseCwb5nbL2OGS-11" parent="jwg3_HYseCwb5nbL2OGS-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【确认阶段和阶段规则，生成推荐】&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="15" y="99" as="geometry" />
+        </mxCell>
         <mxCell id="jwg3_HYseCwb5nbL2OGS-5" edge="1" parent="1" source="jwg3_HYseCwb5nbL2OGS-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jwg3_HYseCwb5nbL2OGS-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1140" y="1050" as="sourcePoint" />
@@ -1400,6 +1397,9 @@
         </mxCell>
         <mxCell id="jwg3_HYseCwb5nbL2OGS-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;思考&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="1070" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="jwg3_HYseCwb5nbL2OGS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;思维链&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="990" y="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
