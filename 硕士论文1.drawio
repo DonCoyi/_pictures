@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="第 1 页" id="A1iWoGut7Abg6qGeU8Iv">
-    <mxGraphModel dx="140" dy="71" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,10 +34,7 @@
         <mxCell id="3LosNY31oBDAxgsh8-4e-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;调优策略与阶段控制&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="240" x="715" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;基于反馈的策略自适应调整&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="245" x="715" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;参数搜索空间动态感知&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="3LosNY31oBDAxgsh8-4e-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;约束代理&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="240" x="715" y="720" as="geometry" />
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=20;" value="" vertex="1">
@@ -85,37 +82,25 @@
             <mxPoint x="410" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" value="">
+        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="834.8" />
+              <mxPoint x="650" y="840" />
             </Array>
-            <mxPoint x="650" y="834.8" as="sourcePoint" />
-            <mxPoint x="690" y="834.8" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="685" y="920.14" as="sourcePoint" />
-            <mxPoint x="715" y="920" as="targetPoint" />
+            <mxPoint x="650" y="840" as="sourcePoint" />
+            <mxPoint x="715" y="840.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="685" y="760" as="sourcePoint" />
+            <mxPoint x="680" y="760" as="sourcePoint" />
             <mxPoint x="715" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="685" y="834.8" as="sourcePoint" />
-            <mxPoint x="715" y="834.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="685" y="760" as="sourcePoint" />
-            <mxPoint x="685" y="920" as="targetPoint" />
+            <mxPoint x="680" y="760" as="sourcePoint" />
+            <mxPoint x="680" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-1" edge="1" parent="1" source="3LosNY31oBDAxgsh8-4e-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" target="3LosNY31oBDAxgsh8-4e-4" value="">
@@ -193,14 +178,14 @@
         <mxCell id="qUC70yUYy9av7D1dvwp2-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;参数开关&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="240" x="1020" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="qUC70yUYy9av7D1dvwp2-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;阶段控制的动态搜索空间&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="1020" y="720" as="geometry" />
+        <mxCell id="qUC70yUYy9av7D1dvwp2-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于多维约束的搜索空间动态调整&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="320" x="1020" y="720" as="geometry" />
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;状态建模与Prompt设计&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="240" x="1020" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="qUC70yUYy9av7D1dvwp2-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;阶段化调优策略&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="1020" y="890" as="geometry" />
+        <mxCell id="qUC70yUYy9av7D1dvwp2-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;收敛感知的渐进式搜索策略&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="320" x="1020" y="890" as="geometry" />
         </mxCell>
         <mxCell id="Iz2MzZrdznjd_zWZYDXj-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
