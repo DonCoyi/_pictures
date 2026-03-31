@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font face=&quot;宋体&quot;&gt;理论指导&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="300" y="670" as="geometry" />
+          <mxGeometry height="30" width="90" x="300" y="720" as="geometry" />
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
