@@ -1088,15 +1088,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sd6vVQ5OkYiVNvsOHuqC" name="第 10 页">
-    <mxGraphModel dx="1390" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="366" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hzYEx0_1pKMinN7WQCNz-1" parent="1" style="swimlane;startSize=0;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="400" width="410" x="460" y="440" as="geometry" />
+          <mxGeometry height="400" width="370" x="500" y="440" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-2" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="90" width="350" x="30" y="170" as="geometry" />
+          <mxGeometry height="90" width="350" x="10" y="170" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-3" parent="hzYEx0_1pKMinN7WQCNz-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【常用命令】&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" y="10" as="geometry" />
@@ -1108,7 +1108,7 @@
           <mxGeometry height="30" width="200" x="140" y="10" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-5" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="120" width="350" x="30" y="270" as="geometry" />
+          <mxGeometry height="120" width="350" x="10" y="270" as="geometry" />
         </mxCell>
         <mxCell id="hzYEx0_1pKMinN7WQCNz-6" parent="hzYEx0_1pKMinN7WQCNz-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【可调参数详情】&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" y="10" as="geometry" />
@@ -1117,7 +1117,7 @@
           <mxGeometry height="90" width="350" y="30" as="geometry" />
         </mxCell>
         <mxCell id="14pejdQ4dzrzLW25i7-7-2" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="70" width="350" x="30" y="90" as="geometry" />
+          <mxGeometry height="70" width="350" x="10" y="90" as="geometry" />
         </mxCell>
         <mxCell id="14pejdQ4dzrzLW25i7-7-3" parent="14pejdQ4dzrzLW25i7-7-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;【可用工具】&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" as="geometry" />
@@ -1129,7 +1129,7 @@
           <mxGeometry height="60" width="110" x="230" y="5" as="geometry" />
         </mxCell>
         <mxCell id="x0dNTm0qBS52JRU1Y_oT-7" parent="hzYEx0_1pKMinN7WQCNz-1" style="swimlane;startSize=0;dashed=1;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="70" width="350" x="30" y="10" as="geometry" />
+          <mxGeometry height="70" width="350" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="x0dNTm0qBS52JRU1Y_oT-8" parent="x0dNTm0qBS52JRU1Y_oT-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;【任务目标】&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="110" as="geometry" />
@@ -1138,13 +1138,13 @@
           <mxGeometry height="40" width="190" y="30" as="geometry" />
         </mxCell>
         <mxCell id="14pejdQ4dzrzLW25i7-7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统提示词&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="440" y="400" as="geometry" />
+          <mxGeometry height="30" width="120" x="500" y="400" as="geometry" />
         </mxCell>
         <mxCell id="YY6y8tBr2lu7Qmd8kHZy-16" parent="1" style="swimlane;startSize=0;fontFamily=宋体;fontStyle=0" value="" vertex="1">
-          <mxGeometry height="400" width="410" x="870" y="440" as="geometry" />
+          <mxGeometry height="400" width="390" x="870" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="YY6y8tBr2lu7Qmd8kHZy-31" parent="YY6y8tBr2lu7Qmd8kHZy-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;【任务目标】&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 根据实验环境推荐 sysctl 配置,运行训练命令,获取日志信息,得到默认系统配置下的训练时长。&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 之后进行配置推荐，并修改参数,运行训练命令，获取新的配置下日志信息。重复这一过程。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【可用工具】&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; python_execute: 执行Python代码&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; file_editor: 读写文件和查看目录&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; bash_execute: 执行命令行命令&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【常用命令】&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 运行训练命令:&amp;nbsp; ./lora.sh&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 修改参数命令:&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;sysctl -w fs.file-max=XXX&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; echo always &amp;gt; /sys/kernel/mm/transparent_hugepage/enabled&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【可调参数详情】&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fs.file-max: range 1000000-30000000, default 1048576, step 1000000, impact high, coupling low.&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ...&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; transparent_hugepage: range [always,madvise,never], default madvise, step 1, impact high, coupling low.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="380" width="380" x="20" y="10" as="geometry" />
+        <mxCell id="YY6y8tBr2lu7Qmd8kHZy-31" parent="YY6y8tBr2lu7Qmd8kHZy-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;【任务目标】&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 根据实验环境推荐 sysctl 配置,运行训练命令,获取日志信息,得到默认系统配置下的训练时长。&lt;/font&gt;&lt;span style=&quot;font-size: 14px; font-family: 宋体; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;之后进行配置推荐，并修改参数,运行训练命令，获取新的配置下日志信息。重复这一过程。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;【可用工具】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; python_execute: 执行Python代码&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; file_editor: 读写文件和查看目录&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; bash_execute: 执行命令行命令&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;【常用命令】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 运行训练命令:&amp;nbsp; ./lora.sh&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 修改参数命令:&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;sysctl -w fs.file-max=XXX&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;echo always &amp;gt; /sys/kernel/mm/transparent_hugepage/enabled&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;【可调参数详情】&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; fs.file-max: range 1000000-30000000, default 1048576, step 1000000, impact high, coupling low.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; ...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; transparent_hugepage: range [always,madvise,never], default madvise, step 1, impact high, coupling low.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="380" x="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
