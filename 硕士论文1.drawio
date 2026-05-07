@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="A1iWoGut7Abg6qGeU8Iv">
-    <mxGraphModel dx="1793" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,91 +16,46 @@
         <mxCell id="3LosNY31oBDAxgsh8-4e-5" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font face=&quot;宋体&quot;&gt;研究问题&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="260" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-6" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;研究目的&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="3LosNY31oBDAxgsh8-4e-7" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;研究内容&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="520" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-7" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;研究内容&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="790" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;搜索空间降维&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="210" x="440" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;内核参数对性能的影响&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="715" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="3LosNY31oBDAxgsh8-4e-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;高效搜索，减少试错&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="210" x="440" y="810" as="geometry" />
+        <mxCell id="3LosNY31oBDAxgsh8-4e-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;内核参数敏感度实验&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="445" y="610" as="geometry" />
         </mxCell>
         <mxCell id="3LosNY31oBDAxgsh8-4e-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;策略生成与渐进式搜索&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="715" y="810" as="geometry" />
+          <mxGeometry height="50" width="240" x="445" y="810" as="geometry" />
         </mxCell>
         <mxCell id="3LosNY31oBDAxgsh8-4e-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;约束代理&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="715" y="720" as="geometry" />
+          <mxGeometry height="50" width="240" x="445" y="720" as="geometry" />
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=20;" value="" vertex="1">
           <mxGeometry height="200" width="50" x="160" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="380" y="630" as="sourcePoint" />
-            <mxPoint x="440" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1.002;exitY=0.399;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" target="3LosNY31oBDAxgsh8-4e-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="634.66" as="sourcePoint" />
-            <mxPoint x="710" y="634.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="740" as="sourcePoint" />
-            <mxPoint x="715" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1.004;exitY=0.417;exitDx=0;exitDy=0;fontSize=20;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="379.99999999999994" y="839.9599999999999" as="sourcePoint" />
-            <mxPoint x="409.32" y="839.94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="410" y="839.94" as="sourcePoint" />
-            <mxPoint x="440" y="839.94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="420" y="650" as="sourcePoint" />
-            <mxPoint x="440" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3AAYbNdel-GU7Cgy3Jlk-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="410" y="650" as="sourcePoint" />
-            <mxPoint x="410" y="840" as="targetPoint" />
+            <mxPoint x="380" y="634.66" as="sourcePoint" />
+            <mxPoint x="440" y="634.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="840" />
+              <mxPoint x="380" y="840" />
             </Array>
-            <mxPoint x="650" y="840" as="sourcePoint" />
-            <mxPoint x="715" y="840.2" as="targetPoint" />
+            <mxPoint x="380" y="840" as="sourcePoint" />
+            <mxPoint x="445" y="840.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="760" as="sourcePoint" />
-            <mxPoint x="715" y="760" as="targetPoint" />
+            <mxPoint x="410" y="760" as="sourcePoint" />
+            <mxPoint x="445" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3AAYbNdel-GU7Cgy3Jlk-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="760" as="sourcePoint" />
-            <mxPoint x="680" y="920" as="targetPoint" />
+            <mxPoint x="410" y="760" as="sourcePoint" />
+            <mxPoint x="410" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-1" edge="1" parent="1" source="3LosNY31oBDAxgsh8-4e-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" target="3LosNY31oBDAxgsh8-4e-4" value="">
@@ -112,100 +67,73 @@
         <mxCell id="qUC70yUYy9av7D1dvwp2-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font face=&quot;宋体&quot;&gt;理论指导&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="300" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="qUC70yUYy9av7D1dvwp2-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="410" y="650" as="sourcePoint" />
-            <mxPoint x="440" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="955" y="744.9" />
+              <mxPoint x="685" y="744.9" />
             </Array>
-            <mxPoint x="955" y="744.9" as="sourcePoint" />
-            <mxPoint x="1020" y="745" as="targetPoint" />
+            <mxPoint x="685" y="744.9" as="sourcePoint" />
+            <mxPoint x="750" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="639.72" as="sourcePoint" />
-            <mxPoint x="1020" y="639.72" as="targetPoint" />
+            <mxPoint x="720" y="679.72" as="sourcePoint" />
+            <mxPoint x="750" y="679.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="640" as="sourcePoint" />
-            <mxPoint x="990" y="745" as="targetPoint" />
+            <mxPoint x="720" y="680" as="sourcePoint" />
+            <mxPoint x="720" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="834.71" as="sourcePoint" />
-            <mxPoint x="1020" y="834.71" as="targetPoint" />
+            <mxPoint x="720" y="834.71" as="sourcePoint" />
+            <mxPoint x="750" y="834.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="909.51" as="sourcePoint" />
-            <mxPoint x="1020" y="909.51" as="targetPoint" />
+            <mxPoint x="720" y="909.51" as="sourcePoint" />
+            <mxPoint x="750" y="909.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="834.71" as="sourcePoint" />
-            <mxPoint x="990" y="990" as="targetPoint" />
+            <mxPoint x="720" y="834.71" as="sourcePoint" />
+            <mxPoint x="720" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="955" y="834.71" />
+              <mxPoint x="685" y="834.71" />
             </Array>
-            <mxPoint x="955" y="834.71" as="sourcePoint" />
-            <mxPoint x="995" y="834.71" as="targetPoint" />
+            <mxPoint x="685" y="834.71" as="sourcePoint" />
+            <mxPoint x="725" y="834.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUC70yUYy9av7D1dvwp2-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;参数元信息建模&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="1020" y="610" as="geometry" />
+        <mxCell id="qUC70yUYy9av7D1dvwp2-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;参数元信息&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="750" y="650" as="geometry" />
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;参数开关&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="1020" y="720" as="geometry" />
-        </mxCell>
-        <mxCell id="qUC70yUYy9av7D1dvwp2-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于多维约束的搜索空间动态调整&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="320" x="1020" y="960" as="geometry" />
+          <mxGeometry height="50" width="240" x="750" y="720" as="geometry" />
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;状态建模与Prompt设计&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="1020" y="810" as="geometry" />
+          <mxGeometry height="50" width="240" x="750" y="810" as="geometry" />
         </mxCell>
         <mxCell id="qUC70yUYy9av7D1dvwp2-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;收敛感知的渐进式搜索策略&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="320" x="1020" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="Iz2MzZrdznjd_zWZYDXj-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="650" as="sourcePoint" />
-            <mxPoint x="680" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iz2MzZrdznjd_zWZYDXj-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="650" as="sourcePoint" />
-            <mxPoint x="680" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iz2MzZrdznjd_zWZYDXj-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="990" y="990" as="sourcePoint" />
-            <mxPoint x="1020" y="990" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="50" width="320" x="750" y="890" as="geometry" />
         </mxCell>
         <mxCell id="Iz2MzZrdznjd_zWZYDXj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;text-indent: 0cm; line-height: 120%;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;基于反馈的调优流程控制&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="715" y="890" as="geometry" />
+          <mxGeometry height="50" width="240" x="445" y="890" as="geometry" />
         </mxCell>
         <mxCell id="Iz2MzZrdznjd_zWZYDXj-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="920" as="sourcePoint" />
-            <mxPoint x="715" y="920" as="targetPoint" />
+            <mxPoint x="410" y="920" as="sourcePoint" />
+            <mxPoint x="445" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
