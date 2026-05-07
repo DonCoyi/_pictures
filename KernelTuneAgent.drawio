@@ -568,7 +568,7 @@
         <mxCell id="VQwkrUYJqeBFxbLYrBja-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4a4a4a&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;系统配置文件&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="105" x="10" y="560.0000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="VQwkrUYJqeBFxbLYrBja-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b style=&quot;color: rgb(46, 118, 70); font-size: 16px;&quot;&gt;智能调优系统&lt;/b&gt;" vertex="1">
+        <mxCell id="VQwkrUYJqeBFxbLYrBja-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b style=&quot;color: rgb(46, 118, 70); font-size: 16px;&quot;&gt;调优系统&lt;/b&gt;" vertex="1">
           <mxGeometry height="370" width="600" x="120" y="430" as="geometry" />
         </mxCell>
         <mxCell id="63_9fiP_J0R0uHWOHN7K-22" parent="VQwkrUYJqeBFxbLYrBja-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font color=&quot;#2e7646&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;记忆模块&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
